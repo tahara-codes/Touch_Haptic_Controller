@@ -1,0 +1,33 @@
+﻿  HapticsApp.cpp
+C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\HapticsApp.cpp(57,32): warning C4244: '=': 'T' から 'float' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=HDdouble
+          ]
+C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\HapticsApp.cpp(58,32): warning C4244: '=': 'T' から 'float' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=HDdouble
+          ]
+C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\HapticsApp.cpp(59,32): warning C4244: '=': 'T' から 'float' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=HDdouble
+          ]
+C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\HapticsApp.cpp(67,36): warning C4244: '=': 'T' から 'int' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=HDdouble
+          ]
+C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\HapticsApp.cpp(198,38): warning C4244: '=': 'float' から 'int32_t' への変換です。データが失われる可能性があります。
+C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\HapticsApp.cpp(199,38): warning C4244: '=': 'float' から 'int32_t' への変換です。データが失われる可能性があります。
+C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\HapticsApp.cpp(200,38): warning C4244: '=': 'float' から 'int32_t' への変換です。データが失われる可能性があります。
+C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\HapticsApp.cpp(127,38): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\HapticsApp.cpp(149,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\HapticsApp.cpp(161,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\HapticsApp.cpp(179,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+hdu.lib(hduAfx.obj) : warning LNK4099: PDB '' が 'hdu.lib(hduAfx.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+hdu.lib(hduError.obj) : warning LNK4099: PDB 'HDU.pdb' が 'hdu.lib(hduError.obj)' で、または 'C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\Release\HDU.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  HapticsApp.vcxproj -> C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\Win32\Release\HapticsApp.exe
+  サブディレクトリまたはファイル C:\OpenHaptics\Developer\3.5.0\examples\HD\console\HapticsApp\\..\..\bin\Win32\HD は既に存在します。
+          1 個のファイルをコピーしました。
